@@ -1,4 +1,4 @@
-# Instruction:
+# Instruction =>
 
 # create a file <file name>
 # delete the file <file name>
